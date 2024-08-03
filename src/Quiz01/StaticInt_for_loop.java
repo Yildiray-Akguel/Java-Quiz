@@ -1,4 +1,6 @@
-public class staticInt_for_loop {
+package Quiz01;
+
+public class StaticInt_for_loop {
     static int x = 10;
 
     public static void main(String[] args) {
