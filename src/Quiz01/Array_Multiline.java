@@ -3,8 +3,8 @@ package Quiz01;
 public class Array_Multiline {
     public static void main(String[] args) {
 
-        int a [][] = new int[3][]; //Deklariert ein zweidimensionales Array namens a mit dem Datentyp int.
-        a[1] = new int[]{1,2,3};  //
+        int a [][] = new int[3][];
+        a[1] = new int[]{1,2,3};
         a[2] = new int[]{4,5};
         System.out.println(a[1][1]);
         //System.out.println(a.length);
