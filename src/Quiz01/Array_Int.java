@@ -13,3 +13,5 @@ public class Array_Int {
         }
     }
 }
+
+// Wie lautet das Ergebnis?
